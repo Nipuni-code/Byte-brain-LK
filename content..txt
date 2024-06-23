@@ -1,0 +1,12 @@
+HTML, or Hypertext Markup Language, is the standard language used to create and design web pages. It provides the basic structure and elements of a webpage, including text content, images, links, and other multimedia elements. HTML uses a system of tags to define the structure of a webpage, with each tag representing a different element or piece of content.
+
+
+CSS, or Cascading Style Sheets, is a language used to describe the presentation of a document written in HTML (or XML). It controls the layout, formatting, and appearance of elements on a webpage, including colors, fonts, spacing, and positioning.
+
+JavaScript is a high-level programming language primarily used for building dynamic and interactive web content. It enables developers to add behavior to web pages, handle user interactions, manipulate HTML and CSS, communicate with servers, and much more.
+
+
+
+
+Web designing refers to the process of creating the visual layout, appearance, and user interface of websites. It involves combining elements such as layout, color, typography, graphics, and interactive features to produce an aesthetically pleasing and user-friendly website. Web designers aim to create websites that not only look attractive but also effectively communicate the intended message, facilitate user interaction, and achieve the desired goals. 
+
